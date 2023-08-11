@@ -22,4 +22,4 @@
 ### 프로젝트 성과
 
 - [kwonmiji.pythonanywhere.com](http://kwonmiji.pythonanywhere.com/) 사이트 개발
-- 교내 캡스톤 디자인 경진대회 장려상
+
